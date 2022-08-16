@@ -519,3 +519,21 @@ footer ul li a:hover{
 .back-to-top i {
 	color: #fff;
 }
+
+.translateBTN{
+
+	background:  #67EE9F;
+	padding: 2px;
+	margin: 5px;
+	text-decoration: none;
+	color: #01093A;
+	border-radius: 10px;
+}
+.translateBTN2{
+
+	background:  #67EE9F;
+	padding: 2px;
+	text-decoration: none;
+	color: #01093A;
+	border-radius: 10px;
+}
